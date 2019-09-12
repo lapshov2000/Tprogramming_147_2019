@@ -1,3 +1,3 @@
 # Tprogramming_147_2019
-ФИО
-Третьяков Даниил Сергеевич
+Fio
+Tretyakov Dniil sergeevich
